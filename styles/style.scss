@@ -1,0 +1,19 @@
+@import "_config.scss";
+@import "_header.scss";
+@import "_main.scss";
+@import "_footer.scss";
+
+@font-face {
+  font-family: "BebasNeue-Regular";
+  src: url("../src/font/Bebas_Neue/BebasNeue-Regular.ttf");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  src: url("../src/font/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  font-family: "Open";
+}
